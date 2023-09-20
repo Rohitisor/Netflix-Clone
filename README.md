@@ -1,2 +1,2 @@
 # Netflix-Clone
-a clone of Netflix website using Html, CSS and JavaScript
+a clone of Netflix website using Html, CSS
